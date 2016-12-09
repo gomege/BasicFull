@@ -1,0 +1,19 @@
+{
+  "run": [
+    {
+      "filePath": "/AutoPayments/webapp/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 9609496,
+        "displayName": "New Web Application 20"
+      }
+    }
+  ]
+}
